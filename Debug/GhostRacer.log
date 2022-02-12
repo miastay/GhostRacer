@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+  StudentWorld.cpp
+C:\Users\ryan\Downloads\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(98,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryan\Downloads\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(121,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  GhostRacer.vcxproj -> C:\Users\ryan\Downloads\GhostRacer-skeleton-windows\GhostRacer\Debug\GhostRacer.exe
